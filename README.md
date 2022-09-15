@@ -6,7 +6,7 @@ This is not an official Google product.
 
 CameraView aims to help Android developers easily integrate Camera features.
 
-Requires API Level 9. The library uses Camera 1 API on API Level 9-20 and Camera2 on 21 and above.
+Requires API Level 9. The library uses Camera 1 API on API Level 9-20 and Camera2 on 21 and above. 
 
 | API Level | Camera API | Preview View |
 |:---------:|------------|--------------|
